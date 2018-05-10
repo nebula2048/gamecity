@@ -1,1 +1,1 @@
-wanba.co
+wanba.co:80
