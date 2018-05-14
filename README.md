@@ -1,1 +1,1 @@
-wanba.co:80
+gamecity.co
