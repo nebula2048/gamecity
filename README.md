@@ -1,1 +1,1 @@
-gamecity.co
+gamecity.io
